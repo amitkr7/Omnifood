@@ -1,0 +1,23 @@
+{
+    "bracket-pair-colorizer-2.activeScopeCSS": [
+
+        "borderStyle : solid",
+        "borderWidth : 1px",
+        "borderColor : {color}",
+        "opacity: 0.5"
+    ],
+    "bracketPairColorizer.consecutivePairColors": [
+        ["<", "</"],
+        ["<", "/>"],
+        [
+            "Gold",
+            "Orchid",
+            "LightSkyBlue"
+        ],
+        "Red"
+    ],
+    "vscode_custom_css.imports": [
+    
+    ],
+    "html.format.contentUnformatted": ""
+}
